@@ -4,14 +4,14 @@
       "text": {
         "en": "<p>Before you can continue to the application form, we need to verify if you are required to pay the <a href='https://studyinfo.fi/wp2/en/higher-education/application-fee/'>application fee</a> of 100 €.</p><p>Applicants to Finnish higher education institutions who are applying based on a qualification completed outside the EU/EEA –area or Switzerland are required to pay an application fee of 100 €. This concerns applicants to both Bachelor's and Master's level studies. The application fee covers all the applications to Finnish higher education institutions that an applicant makes for study programmes that start in the same semester.</p><p>The collection of application fees is based on the Universities Act and the Polytechnics Act. The fee is charged due to the administrative expenses caused by the verification work on qualifications completed outside EU/EEA countries or Switzerland and to develop the electronic application system.</p><p>If you are required to pay the application fee, it needs to be paid before filling in the application.</p><p>The application fee is collected by the Finnish National Board of Education.</p><p>To get started, please sign in with your Google account or order a login link to your email.</p>",
         "fi": "<p>Ennen hakulomakkeen täyttämistä tarkistamme, pitääkö sinun maksaa hakemuksen käsittelymaksu.</p><p>Jos haet korkeakouluun koulutuksella, joka on myönnetty muussa maassa kuin EU- ja ETA-maassa tai Sveitsissä, maksat hakemuksen käsittelymaksun 100 euroa. Hakemuksen käsittelymaksu koskee sekä alempia että ylempiä korkeakoulututkintoja ammattikorkeakouluissa ja yliopistoissa. Maksu on voimassa kaikissa hauissa koulutuksiin, jotka alkavat saman lukukauden aikana. </p><p>Hakemuksen käsittelymaksu suoritetaan Opetushallitukselle yliopistolain (558/2009) 8 §:n 2 momentin ja ammattikorkeakoululain (932/2014) 12 §:n 2 momentin mukaisesti. Maksut käytetään hakemusten käsittelemisestä aiheutuviin kuluihin ja hakujärjestelmän kehittämiseen. </p><p>Jos olet maksuvelvollinen, maksu tulee maksaa ennen hakemuksen täyttämistä. </p><p>Aloita hakemuksen täyttäminen joko kirjautumalla sisään Google-tunnuksin tai tilaa kirjautumislinkki sähköpostiisi.</p>",
-        "sv": "<p>Innan du fyller i ansökningsblanketten kontrollerar vi om du måste betala en behandlingsavgift för ansökan.</p><p>Om du söker till en högskola med en utbildning, som du har genomfört i ett annat land än i ett EU- eller ett EES-land eller i Schweiz, ska du betala en behandlingsavgift på 100 euro. Behandlingsavgiften gäller både lägre och högre högskoleexamina vid yrkeshögskolor och universitet. Avgiften är i kraft inom alla ansökningar och för utbildningar som inleds under en och samma termin. </p><p>Behandlingsavgiften betalas till Utbildningsstyrelsen på basis av universitetslagen (558/2009) 8 §, moment 2 och yrkeshögskolelagen (932/2014) 12 §, moment 2. Avgifterna används för att täcka utgifter i anknytning till behandlingen av ansökningarna och för att utveckla ansökningssystemet.</p><p>Om du är betalningsskyldig, bör du betala avgiften innan du fyller i ansökan.</p><p>Fyll i ansökan genom att logga in med ett Google-användarnamn eller beställ en inloggningslänk till din e-post. </p>"
+        "sv": "<p>Innan du fyller i ansökningsblanketten kontrollerar vi om du måste betala en behandlingsavgift för ansökan.</p><p>Om du söker till en högskola med en utbildning, som du har genomfört i ett annat land än i ett EU- eller ett EES-land eller i Schweiz, ska du betala en behandlingsavgift på 100 euro. Behandlingsavgiften gäller både lägre och högre högskoleexamina vid yrkeshögskolor och universitet. Avgiften är i kraft inom alla ansökningar och för utbildningar som inleds under en och samma termin. </p><p>Behandlingsavgiften betalas till Utbildningsstyrelsen på basis av universitetslagen (558/2009) 8 §, moment 2 och yrkeshögskolelagen (932/2014) 12 §, moment 2. Avgifterna används för att täcka utgifter i anknytning till behandlingen av ansökningarna och för att utveckla ansökningssystemet.</p><p>Om du är betalningsskyldig, bör du betala avgiften innan du fyller i ansökan.</p><p>Fyll i ansökan genom att logga in med ett Google-användarnamn eller beställ en inloggningslänk till din e-post.</p>"
       }
     },
     "order": {
       "link": {
         "en": "Order a login link to your email.",
         "fi": "Tilaa kirjautumislinkki sähköpostiisi",
-        "sv": "Beställ inloggningslänk"
+        "sv": "Beställ inloggningslänk till din e-post"
       },
       "button": {
         "en": "Order email login link",
@@ -24,7 +24,7 @@
         "as": {
           "en": "You are logged in as ",
           "fi": "Olet kirjautunut sisään osoitteella ",
-          "sv": "Du har loggat in med adressen                                                        "
+          "sv": "Du har loggat in med adressen "                                                        "
         }
       }
     }
@@ -52,26 +52,26 @@
     "server": {
       "unexpected": {
         "en": "Unexpected server error. Please try again later.",
-        "fi":
-        "sv": "En oväntat fel uppstod. Var vänlig och försök på nytt senare"
+        "fi": "Tapahtui odottamaton virhe. Ole hyvä ja yritä myöhemmin uudelleen",
+        "sv": "En oväntat fel uppstod. Var vänlig och försök på nytt senare."
         },
       "invalid": {
         "userdata": {
           "en": "Invalid userdata. Please check form values and try again.",
-          "fi":
+          "fi": "Virhe käyttäjätiedoissa. Tarkista kenttiin kirjoittamasi tiedot ja yritä uudelleen.",
           "sv": "Fel användaruppgift. Var vänlig och kontrollera uppgifterna och försök på nytt."
         }
       },
       "pageload": {
         "en": "Unfortunately something went wrong. Please reload page and try again.",
-        "fi":
+        "fi": "Tapahtui odottamaton virhe. Lataa sivu ja yritä uudelleen.",
         "sv": "En oväntat fel uppstod. Var vänlig och ladda sidan på nytt."
       }
     },
     "authentication": {
       "invalid": {
         "en": "Invalid authentication credentials.",
-        "fi":
+        "fi": "Käyttäjätiedot ovat väärin.",
         "sv": "Fel användaruppgift."
       }
     },
@@ -79,12 +79,12 @@
       "invalid": {
         "hakukohde": {
           "en": "This programme does not use application fees.",
-          "fi":
+          "fi": "Tässä koulutuksessa ei ole hakijamaksuja.",
           "sv": "Denna utbildning har ingen ansökningsavgift."
         },
         "hakuaika": {
           "en": "This programme is not open for applying at the moment.",
-          "fi":
+          "fi": "Koulutus ei ole nyt haettavana.",
           "sv": "Denna utbildning ingår inte i ansökan."
         }
       }
@@ -94,7 +94,7 @@
     "login": {
       "link": {
         "en": "Login link sent to your email.",
-        "fi":
+        "fi": "Kirjautumislinkki on lähetetty sähköpostiisi.",
         "sv": "En inloggningslänk har skickats till din e-post."
       }
     }
@@ -103,59 +103,68 @@
     "first": {
       "name": {
         "en": "Given names",
-        "fi":
+        "fi": "Etunimi",
         "sv": "Förnamn"
       }
     },
     "last": {
       "name": {
         "en": "Family name",
-        "fi":
+        "fi": "Sukunimi",
         "sv": "Efternamn"
       }
     },
     "email": {
       "en": "Email address",
-      "fi":
+      "fi": "Sähköpostiosoite",
+      "sv": "E-postadress"
     },
     "education": {
       "country": {
         "en": "Country of the institution that has awarded the degree",
-        "fi":
+        "fi": "Tutkinnon myöntäneen oppilaitoksen maa",
+        "sv": "I vilket land finns läroanstalten som utfärdat examen"
       },
       "level": {
         "en": "Level of the degree",
-        "fi":
+        "fi": "Tutkinnon taso",
+        "sv": "Examens nivå "
       }
     },
     "gender": {
       "general": {
         "en": "Gender",
-        "fi":
+        "fi": "Sukupuoli",
+        "sv": "Kön"
       },
       "male": {
         "en": "Male",
-        "fi":
+        "fi": "Mies",
+        "sv": "Man"
       },
       "female": {
         "en": "Female",
-        "fi":
+        "fi": "Nainen",
+        "sv": "Kvinna"
       }
     },
     "nationality": {
       "en": "Citizenship",
-      "fi":
+      "fi": "Kansalaisuus",
+      "sv": "Medborgarskap"
     },
     "native": {
       "language": {
         "en": "Mother tongue",
-        "fi":
+        "fi": "Äidinkieli",
+        "sv": "Modersmål"
       }
     },
     "birth": {
       "date": {
         "en": "Date of birth",
-        "fi":
+        "fi": "Syntymäaika",
+        "sv": "Födelsetid"
       }
     }
   },
@@ -163,16 +172,17 @@
     "payment": {
       "required": {
         "en": "You are required to pay the application fee of 100€.",
-        "fi":
+        "fi": "Sinun pitää maksaa hakemuksen käsittelymaksu 100€",
+        "sv": "Du måste betala behandlingsavgiften på 100€"
       },
       "notRequired": {
         "en": "Your degree is from an EU/EEA country and you are not required to pay the application fee.",
-        "fi":
+        "fi": "Tutkintosi on myönnetty EU/ETA-maassa eikä sinun tarvitse maksaa hakijamaksua.",
         "sv": "Eftersom du har en examen från ett EU/EES-land behöver du inte betala ansökningsavgiften."
       },
       "alreadyPaid": {
         "en": "You have already paid the application fee of 100€.",
-        "fi":
+        "fi": "Olet jo maksanut hakijamaksun 100€",
         "sv": "Du har redan betalat ansökningsavgiften på 100€."
       }
     }
@@ -180,76 +190,93 @@
   "userdataform": {
     "info": {
       "en": "Please enter the following information exactly as on your passport (with capital initials, no capslock).",
-      "fi":
+      "fi": "Täytä tiedot täsmälleen samassa muodossa kuin passissasi (esim. isot alkukirjaimet, ei muita isoja kirjaimia).",
+      "sv": "Fyll i uppgifterna nedan exakt enligt uppgifterna i ditt pass (första bokstaven med versaler, de övriga med normal text)"
     },
     "personalId": {
       "en": "I have a Finnish personal identification code",
-      "fi":
+      "fi": "Minulla on suomalainen henkilötunnus",
+      "sv": "Jag har en finländsk personbeteckning"
     },
     "submit": {
       "en": "Submit",
-      "fi":
+      "fi": "Lähetä",
+      "sv": "Skicka"
     },
     "errors": {
       "requiredFirstName": {
         "en": "Given names is required.",
-        "fi":
+        "fi": "Etunimi on pakollinen kenttä",
+        "sv": "Förnamnen är obligatoriska"
       },
       "invalidFirstName": {
         "en": "Given names contains illegal characters.",
-        "fi":
+        "fi": "Etunimi sisältää ei-hyväksyttyjä merkkejä",
+        "sv": "Förnamnet innehåller otillåtna tecken"
       },
       "requiredLastName": {
         "en": "Family name is required.",
-        "fi":
+        "fi": "Sukunimi on pakollinen kenttä",
+        "sv": "Efternamnet är en obligatorisk uppgift"
       },
       "invalidLastName": {
         "en": "Family name contains illegal characters.",
-        "fi":
+        "fi": "Sukunimi sisältää ei-hyväksyttyjä merkkejä",
+        "sv": "Efternamnet innehåller otillåtna tecken"
       },
       "invalidBirthDate": {
         "en": "Insert date of birth in correct format.",
-        "fi":
+        "fi": "Täytä syntymäaika vaaditussa muodossa",
+        "sv": "Ange födelsedatum i korrekt form"
       },
       "requiredPersonId": {
         "en": "Insert Personal identification code in correct format (last 5 characters).",
-        "fi":
+        "fi": "Täytä henkilötunnus oikeassa muodoss (5 viimeistä merkkiä)",
+        "sv": "Ange personbeteckning i korrekt form (sista 5 tecken)"
       },
       "requiredGender": {
         "en": "Gender is required.",
-        "fi":
+        "fi": "Sukupuoli on pakollinen kenttä",
+        "sv": "Kön är en obligatorisk uppgift"
       },
       "requiredNativeLanguage": {
         "en": "Mother tongue is required.",
-        "fi":
+        "fi": "Äidinkieli on pakollinen kenttä",
+        "sv": "Modersmål är en obligatorisk uppgift"
       },
       "requiredNationality": {
         "en": "Citizenship is required.",
-        "fi":
+        "fi": "Kansalaisuus on pakollinen kenttä",
+        "sv": "Medborgarskap är en obligatorisk uppgift"
       }
     }
   },
   "educationForm": {
     "info": {
       "en": "Please enter your education information for applying to",
-      "fi":
+      "fi": "Valitse se pohjakoulutus, jolla haet koulutukseen: ",
+      "sv": "Välj den grundutbildning enligt vilken du söker till utbildning: "
     },
     "payment": {
       "en": "This information is used only to define if you need to pay the application fee. On the application form you can give additional information about your educational background. Submitting false information may result in termination of your application process.",
-      "fi":
+      "fi": "Tätä tietoa käytetään maksuvelvollisuuden tarkistamisen. Varsinaisessa hakemuksessa voit kertoa lisätietoa koulutustaustastasi. Väärän tiedon antaminen voi johtaa hakemuksesi hylkäämiseen.",
+      "sv": "Uppgiften används vid granskningen av betalningsskyldigheten. I den egentliga ansökan kan du berätta mera om din utbildningsbakgrund. Om du uppger felaktiga uppgifter kan din ansökan hävas."
     },
     "submit": {
       "en": "Submit",
-      "fi":
+      "fi": "Lähetä",
+      "sv": "Skicka"
     },
     "errors": {
       "requiredEducationLevel": {
         "en": "Level of the degree is required.",
-        "fi":
+        "fi": "Tutkinnon taso on pakollinen tieto",
+        "sv": "Examensnivån är en obligatorisk uppgift"
       },
       "requiredEducationCountry": {
         "en": "Country of the institution is required.",
-        "fi":
+        "fi": "Tutkinnon myöntäneen oppilaitoksen maa on pakollinen tieto.",
+        "sv": "Landet för den läroanstalt som utfärdat examen är en obligatorisk uppgift. "
       }
     }
   },
@@ -257,40 +284,50 @@
     "start": {
       "info": {
         "en": "<p>You are required to pay the <a href='https://studyinfo.fi/wp2/en/higher-education/application-fee/'>application fee</a> of 100€ before continuing to the application. The application fee is collected by the Finnish National Board of Education (Opetushallitus). The application fee is based on the Universities Act and the Polytechnics Act. The application fee is non-refundable.</p><h2>Payment methods</h2><p>Credit card (Visa, Visa Debit, Visa Electron, Mastercard, Mastercard Debit)</p><p>Finnish online banking credentials</p>",
-        "fi":
+        "fi": "<p>Sinun pitää maksaa hakemuksen käsittelymaksu 100 € ennen kuin voit jättää hakemuksesi. Hakemuksen käsittelymaksu suoritetaan Opetushallitukselle yliopistolain (558/2009) 8 §:n 2 momentin ja ammattikorkeakoululain (932/2014) 12 §:n 2 momentin mukaisesti. Maksua ei palauteta.</p>",
+        "sv": "<p>Du måste betala behandlingsavgiften på 100 € för ansökan innan du kan lämna in din ansökan. Behandlingsavgiften betalas till Utbildningsstyrelsen på basis av universitetslagen (558/2009) § 8, moment 2 och yrkeshögskolelagen (932/2014) § 12, moment 2. Betalningen returneras inte. </p>"
       },
       "submit": {
         "en": "Continue to payment",
-        "fi":
+        "fi": "Jatka maksusivulle",
+        "sv": "Fortsätt till betalningssidan"
       }
     },
     "result": {
       "cancel": {
         "en": "Payment cancelled.",
-        "fi":
+        "fi": "Maksutapahtuma keskeytyi",
+        "sv": "Betalningen avbröts"
       },
       "error": {
         "en": "Payment error.",
-        "fi":
+        "fi": "Virhe maksutapahtumassa",
+        "sv": "Betalningen misslyckades"
+        
       },
       "ok": {
         "en": "Thank you, your payment has been received.",
-        "fi":
+        "fi": "Kiitos, maksusi on vastaanotettu",
+        "sv": "Tack, din betalning har mottagits."
       }
     }
   },
   "hakulist": {
     "info": {
       "en": "Continue to applications with the following links.",
-      "fi":
+      "fi": "Pääset hakulomakkeelle alla olevasta painikkeesta",
+      "sv": "Du kommer till ansökningsblanketten genom att klicka på följande knapp"
     },
     "empty": {
       "en": "No existing applications found.",
-      "fi":
+      "fi": "Sinulla ei ole hakemuksia",
+      "sv": "Du har inga ansökningar"
+      
     },
     "submit": {
       "en": "Continue to application",
-      "fi":
+      "fi": "Hakulomakkeelle",
+      "sv": "Till ansökningsblanketten "
     }
   }
 }
